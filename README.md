@@ -9,3 +9,9 @@
 - In the data, the numbering of the participants skips over 24, 25, 37, and 40
   - So the numbering goes from 1 to 49 but covers all 45 participants
 - In each participant's sheet, there are columns for meal types and macros, but they are empty.
+- Data spans ~10 days.
+
+## Questions
+- How do we map back participant number to diabetes status?
+- Where is the parse_data.ipynb script that processes the data and builds an XGBoost model?
+- 
