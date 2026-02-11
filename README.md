@@ -15,3 +15,4 @@
 
 ## Questions
 - How do we map back participant number to diabetes status? 
+  - a1c level?
